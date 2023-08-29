@@ -1,0 +1,6 @@
+local part = Instance.new("Part")
+part.Position = Vector3.new(0,6,0)
+part.Size = Vector3.new(0,9,0)
+part.BrickColor = BrickColor.new("Bright Red Block")
+part.Anchored = True
+part.Parent = game.Workspace
